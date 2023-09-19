@@ -7,8 +7,12 @@ meaning = "敏锐的 adj."
 words = ["incisive", "astute", "perceptive", "shrewd", "discerning", "keen"]
 
 [[synonyms]]
-meaning = "嘲笑 n."
-words = ["mockery", "derision", "ridicule", "contempt", "sarcasm", "disdain", "insult"]
+meaning = "讥讽、嘲笑 n."
+words = ["mockery", "derision", "ridicule", "contempt", "sarcasm", "disdain", "insult", "jibe", "taunt", "satire"]
+
+[[synonyms]]
+meaning = "尖刻 n."
+words = ["acrimony", "mordancy", "virulence", "bitterness", "sarcasm"]
 
 [[synonyms]]
 meaning = "分割、划分 v."
@@ -25,6 +29,18 @@ words = ["dismantle", "annihilate", "demolish", "raze", "wreck", "ruin"]
 [[synonyms]]
 meaning = "健谈的 adj."
 words = ["voluble", "garrulous", "glib", "loquacious", "talkative", "verbose"]
+
+[[synonyms]]
+meaning = "冗长的、罗嗦的 adj."
+words = ["verbose", "diffuse", "loquacious", "prolix", "rambling", "garrulous"]
+
+[[synonyms]]
+meaning = "扩散、散布 v."
+words = ["spread", "promulgate", "disperse", "disseminate", "diffuse"]
+
+[[synonyms]]
+meaning = "宣布、声明 v."
+words = ["proclaim", "profess", "announce", "declare", "promulgate", "trumpet"]
 
 [[synonyms]]
 meaning = "迷住、入迷 v."
@@ -69,6 +85,10 @@ words = ["oppressive", "brutal", "inhuman", "harsh", "despotic", "tyrannical", "
 [[synonyms]]
 meaning = "全面、彻底的 adj."
 words = ["exhaustive", "encyclopedic", "comprehensive", "thorough", "all-encompassing", "sweeping", "all-embracing", "complete"]
+
+[[synonyms]]
+meaning = "完全的、彻底的 adj."
+words = ["downright", "thorough", "utter", "absolute", "outright", "categorical"]
 
 [[synonyms]]
 meaning = "混乱、杂乱 n."
@@ -136,7 +156,7 @@ words = ["unpredictable", "erratic", "volatile", "capricious", "fickle", "mercur
 
 [[synonyms]]
 meaning = "古怪的 adj."
-words = ["bizarre", "erratic", "eccentric", "fantastic", "whimsical", "outlandish", "weird"]
+words = ["bizarre", "erratic", "eccentric", "fantastic", "whimsical", "outlandish", "weird", "quirky"]
 
 [[synonyms]]
 meaning = "极端分子 n."
@@ -171,6 +191,10 @@ meaning = "有洞察力的 adj."
 words = ["perspicacious", "astute", "shrewd", "discernible", "discerning", "perceptive"]
 
 [[synonyms]]
+meaning = "察觉、辨识 v."
+words = ["discern", "detect", "discriminate", "perceive", "recognize", "distinguish"]
+
+[[synonyms]]
 meaning = "精明的 adj."
 words = ["anny", "astute", "acute", "shrewd", "prudent", "judicious"]
 
@@ -193,6 +217,10 @@ words = ["misconstrue", "garble", "misunderstand", "misapprehend", "misinterpret
 [[synonyms]]
 meaning = "预示、预兆 v."
 words = ["presage", "portend", "adumbrate", "augur", "forebode", "herald", "betoken", "signify"]
+
+[[synonyms]]
+meaning = "预知的 adj."
+words = ["prescient", "prophetic", "farsighted", "foreseeing", "prognostic", "predictive"]
 
 [[synonyms]]
 meaning = "聚集 v."
@@ -250,6 +278,187 @@ words = ["unpretentious", "lowly", "humble", "modest", "unassuming"]
 meaning = "搁置、中止 n."
 words = ["quiescence", "abeyance", "suspension", "moratorium", "doldrums", "adjournment"]
 
+[[synonyms]]
+meaning = "多产的、丰富的 adj."
+words = ["prolific", "productive", "fecund", "abundant", "profuse", "copious"]
 
+[[synonyms]]
+meaning = "恰当的 adj."
+words = ["felicitous", "apt", "appropriate", "apposite", "apropos"]
 
+[[synonyms]]
+meaning = "证实 v."
+words = ["corroborate", "confirm", "justify", "validate", "verify", "authenticate", "attest"]
+
+[[synonyms]]
+meaning = "一丝不苟的、小心谨慎的 adj."
+words = ["meticulous", "painstaking", "thorough", "scrupulous", "careful", "conscientious", "punctilious"]
+ 
+[[synonyms]]
+meaning = "谨慎的、考虑周全的 adj."
+words = ["considerate", "guarded", "tactful", "prudent", "circumspect", "discreet"]
+
+[[synonyms]]
+meaning = "仓促、匆忙的 adj."
+words = ["cursory", "precipitate", "hasty", "headless"]
+
+[[synonyms]]
+meaning = "可替代的 adj."
+words = ["fungible", "interchangeable"]
+
+[[synonyms]]
+meaning = "一贯正确的 adj."
+words = ["unerring", "flawless", "impeccable", "faultless", "unfailing"]
+
+[[synonyms]]
+meaning = "鉴赏家 n."
+words = ["connoisseur", "expert", "specialist", "pundit", "virtuoso"]
+
+[[synonyms]]
+meaning = "没有根据的 adj."
+words = ["unfounded", "baseless", "untenable", "groundless", "unjustified"]
+
+[[synonyms]]
+meaning = "盛气凌人的 adj."
+words = ["condescending", "arrogant", "supercilious", "patronizing", "snobbing", "haughty"]
+
+[[synonyms]]
+meaning = "扩展、详述 v."
+words = ["amplify", "enlarge", "elaborate"]
+
+[[synonyms]]
+meaning = "增强、扩大 v."
+words = ["amplify", "magnify", "intensify", "escalate", "augment", "boost"]
+
+[[synonyms]]
+meaning = "晦涩难懂的 adj."
+words = ["obscure", "opaque", "impenetrable", "arcane", "unfathomable", "inscrutable"]
+
+[[synonyms]]
+meaning = "难以理解的 adj."
+words = ["ambiguous", "opaque", "arcane", "cryptic", "equivocal", "inscrutable"]
+
+[[synonyms]]
+meaning = "鲜为人知的 adj."
+words = ["anonymous", "nondescript", "commonplace", "mundane", "undistinguished", "obscure"]
+
+[[synonyms]]
+meaning = "平常无奇的 adj."
+words = ["commonplace", "mundane", "pedestrian", "prosaic", "dull", "banal", "humdrum"]
+
+[[synonyms]]
+meaning = "陈词滥调 n."
+words = ["banality", "cliche", "platitude", "commonplace", "truism", "triteness", "conventionality"]
+
+[[synonyms]]
+meaning = "艰巨的 adj."
+words = ["onerous", "arduous", "burdensome", "grueling", "taxing"]
+
+[[synonyms]]
+meaning = "不透光的 adj."
+words = ["opaque", "blurry", "dim", "murky", "obscure", "shadowy"]
+
+[[synonyms]]
+meaning = "缺乏的 adj."
+words = ["sparse", "meager", "scarce", "scant", "limited", "insufficient", "deficient"]
+
+[[synonyms]]
+meaning = "过度的 adj."
+words = ["excessive", "undue", "exorbitant", "overdue", "immoderate", "intemperate"]
+
+[[synonyms]]
+meaning = "怪癖 n."
+words = ["quirk", "eccentricity", "oddity", "peculiarity", "idiosyncrasy"]
+
+[[synonyms]]
+meaning = "赚钱的 adj."
+words = ["lucrative", "remunerative", "profitable", "rewarding"]
+
+[[synonyms]]
+meaning = "掩饰 v."
+words = ["belie", "disguise", "conceal", "veil", "mask", "camouflage"]
+
+[[synonyms]]
+meaning = "拆穿、揭露为假 v."
+words = ["debunk", "expose", "disprove", "belie", "invalidate", "controvert"]
+
+[[synonyms]]
+meaning = "缓和、减轻 v."
+words = ["mitigate", "abate", "tempor", "allay", "alleviate", "mollify", "palliate", "soothe", "appease", "assuage", "pacify", "relieve", "ease"]
+
+[[synonyms]]
+meaning = "消除、使不必要 v."
+words = ["obviate", "avert", "perclude", "prevent", "eliminate", "remove"]
+
+[[synonyms]]
+meaning = "认可、支持 v."
+words = ["endorse", "uphold", "accredit", "advocate", "champion", "countenance"]
+
+[[synonyms]]
+meaning = "谴责 v."
+words = ["condemn", "decry", "censure", "denounce", "execrate", "reprobate"]
+
+[[synonyms]]
+meaning = "相称的 adj."
+words = ["commensurate", "proportionate", "comparable", "equivalent"]
+
+[[synonyms]]
+meaning = "歧视的 adj."
+words = ["discriminatory", "prejudiced", "unfair", "biased"]
+
+[[synonyms]]
+meaning = "过时的 adj."
+words = ["anachronistic", ", old-fashioned", "outmoded", "obsolete", "antiquated", "archaic", "antediluvian"]
+
+[[synonyms]]
+meaning = "国际性的、见多识广的 adj."
+words = ["cosmopolitan", "global", "universal", "worldwide"]
+
+[[synonyms]]
+meaning = "反对、不同意 v."
+words = ["dissent", "discord", "contradict", "demur", "object"]
+
+[[synonyms]]
+meaning = "友好、和睦 n."
+words = ["harmony", "concord", "amity", "comity", "friendship"]
+
+[[synonyms]]
+meaning = "服从 v."
+words = ["conform", "obey", "accord", "harmoize", "square"]
+
+[[synonyms]]
+meaning = "反复无常的、轻浮的 adj."
+words = ["flighty", "frivolous", "flippant", "giddy"]
+
+[[synonyms]]
+meaning = "声明与...脱离关系 v."
+words = ["abandon", "abjure", "disavow", "repudiate", "renounce", "disown"]
+
+[[synonyms]]
+meaning = "清晰可见的 adj."
+words = ["tangible", "palpable", "perceptible", "concrete", "definite"]
+
+[[synonyms]]
+meaning = "疾病、弊端 n."
+words = ["malady", "ailment", "illness", "disease", "sickness"]
+
+[[synonyms]]
+meaning = "折磨、困扰 v."
+words = ["agonize", "beset", "besiege", "afflict", "barass", "pester", "plague"]
+
+[[synonyms]]
+meaning = "瘟疫、灾祸 n."
+words = ["plague", "epidemic", "infestation", "pandemic", "scourge"]
+
+[[synonyms]]
+meaning = "构成、形成 v."
+words = ["constitute", "consist", "compose"]
+
+[[synonyms]]
+meaning = "乐观的 adj."
+words = ["upbeat", "confident", "optimistic", "cheerful", "buoyant", "animated", "sanguin"]
+
+[[synonyms]]
+meaning = "权威的、威严的 adj."
+words = ["authoritative", "magisterial"]
 
