@@ -91,6 +91,10 @@ meaning = "完全的、彻底的 adj."
 words = ["downright", "thorough", "utter", "absolute", "outright", "categorical"]
 
 [[synonyms]]
+meaning = "纯粹的 adj."
+words = ["pure", "fine", "refined", "neat", "plain", "absolute", "unqualified", "purified", "unalloyed"]
+
+[[synonyms]]
 meaning = "混乱、杂乱 n."
 words = ["hodgepodge", "pandemonium", "turmoil", "muddle", "mess", "jumble", "chaos", "welter"]
 
@@ -284,7 +288,11 @@ words = ["prolific", "productive", "fecund", "abundant", "profuse", "copious"]
 
 [[synonyms]]
 meaning = "恰当的 adj."
-words = ["felicitous", "apt", "appropriate", "apposite", "apropos"]
+words = ["felicitous", "apt", "appropriate", "apposite", "apropos", "fitting", "germane", "pertinent"]
+
+[[synonyms]]
+meaning = "感激的 adj."
+words = ["indebted", "grateful", "obligated", "beholden", "obliged", "appreciative"]
 
 [[synonyms]]
 meaning = "证实 v."
@@ -301,10 +309,6 @@ words = ["considerate", "guarded", "tactful", "prudent", "circumspect", "discree
 [[synonyms]]
 meaning = "仓促、匆忙的 adj."
 words = ["cursory", "precipitate", "hasty", "headless"]
-
-[[synonyms]]
-meaning = "可替代的 adj."
-words = ["fungible", "interchangeable"]
 
 [[synonyms]]
 meaning = "一贯正确的 adj."
@@ -403,12 +407,24 @@ meaning = "相称的 adj."
 words = ["commensurate", "proportionate", "comparable", "equivalent"]
 
 [[synonyms]]
+meaning = "可交换的 adj."
+words = ["interchangeable", "fungible", "synonymous", "equivalent", "identical"]
+
+[[synonyms]]
+meaning = "可替代的 adj."
+words = ["fungible", "interchangeable"]
+
+[[synonyms]]
 meaning = "歧视的 adj."
 words = ["discriminatory", "prejudiced", "unfair", "biased"]
 
 [[synonyms]]
 meaning = "过时的 adj."
 words = ["anachronistic", ", old-fashioned", "outmoded", "obsolete", "antiquated", "archaic", "antediluvian"]
+
+[[synonyms]]
+meaning = "纪实的 adj."
+words = ["chronicled", "archived", "genuine", "factual", "documentary"]
 
 [[synonyms]]
 meaning = "国际性的、见多识广的 adj."
@@ -451,6 +467,22 @@ meaning = "瘟疫、灾祸 n."
 words = ["plague", "epidemic", "infestation", "pandemic", "scourge"]
 
 [[synonyms]]
+meaning = "接触传染的 adj."
+words = ["contagious", "endemic", "infectious", "pandemic", "epidemic"]
+
+[[synonyms]]
+meaning = "解决方法 n."
+words = ["panacea", "solution", "antidote", "curative", "rectifier", "therapy", "remedy"]
+
+[[synonyms]]
+meaning = "年老的 adj."
+words = ["old", "senior", "advanced", "aged"]
+
+[[synonyms]]
+meaning = "棘手的、难以解决的 adj."
+words = ["knotty", "complicated", "baffling", "thorny", "taxing", "troublesome"]
+
+[[synonyms]]
 meaning = "构成、形成 v."
 words = ["constitute", "consist", "compose"]
 
@@ -462,3 +494,50 @@ words = ["upbeat", "confident", "optimistic", "cheerful", "buoyant", "animated",
 meaning = "权威的、威严的 adj."
 words = ["authoritative", "magisterial"]
 
+[[synonyms]]
+meaning = "令人讨厌的 adj."
+words = ["noisome", "disagreeable", "abominable", "abhorrent", "odious", "objectionable", "noxious"]
+
+[[synonyms]]
+meaning = "恶臭的 adj."
+words = ["noisome", "fetid", "foul", "malodorous", "stinking", "smelly"]
+
+[[synonyms]]
+meaning = "镇定的、沉着的 adj."
+words = ["composed", "unperturbed", "collected", "calm", "imperturbed", "unflappable", "serene", "sedate"]
+
+[[synonyms]]
+meaning = "持久的、耐用的 adj."
+words = ["durable", "constant", "enduring", "permanent", "persistent", "everlasting"]
+
+[[synonyms]]
+meaning = "过度吹捧 n."
+words = ["adulation", "sycophancy", "flattery", "fawning", "praise", "compliment"]
+
+[[synonyms]]
+meaning = "惹眼的 adj."
+words = ["noticeable", "protruding", "conspicuous", "obstrusive"]
+
+[[synonyms]]
+meaning = "清晰表达 v."
+words = ["enunciate", "proclaim", "reveal", "assert", "utter", "articulate"]
+
+[[synonyms]]
+meaning = "表达清晰的 adj."
+words = ["intelligible", "lucid", "illuminating", "comprehensible", "articulate"]
+
+[[synonyms]]
+meaning = "狂喜 n."
+words = ["ecstasy", "elation", "rapture", "delight", "bliss", "exhilaration", "euphoria"]
+
+[[synonyms]]
+meaning = "分阶层的 adj."
+words = ["stratified", "hierarchical", "ranked", "graded"]
+
+[[synonyms]]
+meaning = "警告、责备 v."
+words = ["admonish", "rebuke", "chide", "reprove", "reprimand", "scold"]
+
+[[synonyms]]
+meaning = "忠告、劝告 v."
+words = ["admonish", "advise", "recommend", "urge", "consel"]
