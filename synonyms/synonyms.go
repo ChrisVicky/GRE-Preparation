@@ -1,9 +1,12 @@
-package synonyms
+package main
 
 import (
-    "log"
-    "os"
-    "github.com/BurntSushi/toml"
+	"fmt"
+	"log"
+	"math/rand"
+	"os"
+
+	"github.com/BurntSushi/toml"
 )
 
 type Synonym struct{
@@ -27,7 +30,7 @@ func ReadSynonyms(fn string) (s *Synonyms, err error){
     )
 
     if _, err := os.Stat(fn); err != nil {
-        log.Printf("File '%v' cannot be stat, Use Default File: '%v'", fn, DefaultFile)
+        // log.Printf("File '%v' cannot be stat, Use Default File: '%v'", fn, DefaultFile)
         fn = DefaultFile
     }
 
@@ -64,4 +67,25 @@ func (s *Synonyms) GetLen() int {
 
 func (s *Synonyms) GetWordsNum() int {
     return len(s.Words)
+}
+
+func (s *Synonyms) singalQ(no int) {
+    if no == 0 {
+        no = rand.Intn(s.GetLen())
+    }
+    ss := s.S[no]
+    var input string
+    fmt.Printf("%v\n", ss.Words)
+    fmt.Scanf("%s", &input)
+    fmt.Printf("%v vs %v\n", input, ss.Meaning)
+}
+
+func main() {
+    if s, err := ReadSynonyms(""); err != nil {
+        log.Fatalf("Error! : %v", err)
+    }else{
+        for {
+            s.singalQ(0)
+        }
+    }
 }
